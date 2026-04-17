@@ -1,8 +1,8 @@
 // ========== QUESTÕES COM TEMA MATUÊ E 30PRAUM ==========
 const QUESTIONS = [
     {
-        text: "Qual o nome do primeiro álbum de estúdio do Matuê, lançado em 2020?",
-        options: ["Máquina do Tempo", "333", "Eternal", "30PRAUM"],
+        text: "Quem é a irmã mais velha?",
+        options: ["Bianca, kat, Chastity, Mandella"],
         correct: 1
     },
     {
