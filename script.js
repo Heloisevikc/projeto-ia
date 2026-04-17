@@ -2,7 +2,7 @@
 const QUESTIONS = [
     {
         text: "Quem é a irmã mais velha?",
-        options: ["Bianca, kat, Chastity, Mandella"],
+        options: ["Bianca," kat," Chastity," Mandella"],
         correct: 1
     },
     {
